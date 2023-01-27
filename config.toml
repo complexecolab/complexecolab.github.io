@@ -2,3 +2,9 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Complex Ecology Systems Lab'
 theme = 'cleanwhite'
+
+
+
+
+[params]
+  header_image = "img/homepage.gif"
