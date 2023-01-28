@@ -1,0 +1,28 @@
+{{ define "header" }}
+{{ partial "peopleheader.html" . }}
+{{ end }}
+
+
+{{ define "main" }}
+
+<div class="row">
+<div class="col-md-4 col-sm-3"></div>
+{{ partial "personcard.html" . }}
+<div class="col-md-4 col-sm-3"></div>
+</div>
+
+<div class="row">
+<div class="col-md-3 col-sm-2"></div>
+<div class="col-md-6 col-sm-8">
+{{ .Content }}
+</div>
+<div class="col-md-3 col-sm-2"></div>
+</div>
+<div class="row text-center">
+<a href="/people" class="button">&#8592;back</a>
+</div>
+
+<!-- how do I center this? -->
+
+
+{{ end }}

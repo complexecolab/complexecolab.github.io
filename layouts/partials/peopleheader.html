@@ -1,0 +1,19 @@
+
+<!-- Post Header -->
+<style type="text/css">
+    header.intro-header {
+        background-image: url('{{ if .Params.image }}{{ .Params.image | relURL }}{{ else }}{{ .Site.Params.header_image | relURL}}{{ end }}')
+    }
+</style>
+<header class="intro-header" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading" style="padding-bottom: 0px;">
+                    <h2>People</h2>
+                    <h2 class="subheading">{{ .Params.subtitle }}</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
