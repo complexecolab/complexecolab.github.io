@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Us
+title: Prospective Students
 ---
 
 Info for prospective students

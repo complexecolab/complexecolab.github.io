@@ -1,0 +1,4 @@
+---
+title: People
+layout: peopleindex
+---

@@ -13,7 +13,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <div class="post-heading" style="padding-bottom: 0px">
+                <div class="post-heading" style="padding-bottom: 0px;">
                     <h2>{{ .Title }}</h2>
                     <h2 class="subheading">{{ .Params.subtitle }}</h2>
                 </div>
@@ -25,36 +25,22 @@
 
 {{ define "main" }}
 <!-- Post Content -->
-<article>
-    <div class="container">
-        <div class="row">
 
-            <!-- Post Container -->
-            <div class="
-                col-lg-8 col-lg-offset-2
-                col-md-10 col-md-offset-1
-                post-container">
+    <div class="container text-center">
 
-                <!--
-                {{ if not (eq (.Param "showtoc") false) }}
-                <header>
-                    <h2>TOC</h2>
-                </header>
-                {{.TableOfContents}}
-                {{ end }}
-                -->
+            
                 {{ .Content }}
 
-                This is a "single" page
+                <!--This is a the custom People index page-->
+                <!-- could do [[ if eq .Params.Status "grad" ]], etc to order them -->
 
-             	{{ range .Params.people }}
-             	
-             	page!
-             	{{ end }}
-
-            </div>
+        <div class="row">
+         
+            {{ range .Pages }}
+              {{ partial "personcard.html" . }}
+            {{ end }}
         </div>
+
     </div>
-</article>
 
 {{ end }}

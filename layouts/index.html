@@ -1,8 +1,34 @@
+{{ define "header" }}
+<!-- Post Header -->
+<style type="text/css">
+    header.intro-header {
+        background-image: url('{{ if .Params.image }}{{ .Params.image | relURL }}{{ else }}{{ .Site.Params.header_image | relURL}}{{ end }}')
+    }
+</style>
+
+<header class="intro-header" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>{{ .Title }}</h1>
+                    <h2 class="subheading">School of Aquatics and Fishery Science</h2>
+                    <h2 class="subheading">University of Washington</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+{{ end }}
+
+
 {{ define "main" }}
 <div data-pagefind-ignore="all" class="container">
     <div class="row">
         <!-- USE SIDEBAR -->
         <!-- Post Container -->
+
+        {{ .Content }}
 
         {{ partial "sidebar.html" . }}
   </div>

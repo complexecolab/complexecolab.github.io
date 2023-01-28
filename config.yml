@@ -2,15 +2,17 @@ baseURL: http://complexecolab.github.io/
 languageCode: 'en-us'
 title: 'Complex Ecological Systems Lab'
 theme: 'cleanwhite'
+summarylength: 50
 
 params:
   header_image: img/homepage.gif
+  subtitle: at the school of Aquatics and Fishery Sciences at UW
 
 menu:
 
   main:
-    - name: 'Join us'
-      url: '/joinus'
+    - name: 'Prospective Students'
+      url: '/prospectivestudents'
       weight: 50
     - name: 'People'
       url: '/people'
