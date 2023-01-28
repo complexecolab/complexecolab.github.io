@@ -24,13 +24,60 @@
 
 {{ define "main" }}
 <div data-pagefind-ignore="all" class="container">
-    <div class="row">
-        <!-- USE SIDEBAR -->
-        <!-- Post Container -->
+    <div class="row text-center">
+        <div class="col-md-1"></div>
+        <div class="col-md-10 col-xs-12" style="margin: 50px">
+            <!-- USE SIDEBAR -->
+            <!-- Post Container -->
 
-        {{ .Content }}
+            <h1>We look for patterns in movement and behavior.</h1>
+            <p>
+                We're part of the School of Aquatics and Fishery Sciences Department at
+            the University of Washington. Our offices are in the Fishery Sciences Building.
+            We like fish, whales, fungi, atmospheric dynamics, collective behavior,
+            math, computer vision, collective behavior, and other stuff too!
+            </p>
+            </div>
+        <div class="col-md-1"></div>
+    </div>
 
-        {{ partial "sidebar.html" . }}
-  </div>
+    <div class="row category">
+        <div class="col-md-6">
+            <img src="/img/ai_salmon.png" style="width: 100%;"/>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-4 vcenter">
+            <h2>cool offset thing</h2>
+            <p>look at this picture of Ben's AI labeling things</p>
+        </div>
+        <div class="col-md-1"></div>
+
+    </div>
+
+
+    <div class="row category">
+        <div class="col-md-1"></div>
+        <div class="col-md-4 vcenter">
+                <h2>on the other side</h2>
+                <p>and check out this animation of fish startling. (I'm not sure who made it)</p>
+        </div>
+        <div class="col-md-1"></div>
+
+        <div class="col-md-6">
+             <img src="/img/startle_response.gif" style="width: 60%; border-radius: 20%"/>
+        </div>
+    </div>
+
+
+
+
 </div>
+<style>
+.vcenter {
+    padding-top: 80px;
+}
+.category {
+    padding-top: 100px
+}
+</style>
 {{ end }}
