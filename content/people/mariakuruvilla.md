@@ -29,7 +29,7 @@ and:
 > Maybe at climate velocity
 
 Which means Maria might be moving at the exact speed to remain static in
-climate space under climate change.
+climate space under climate change. Neat!
 
 If we had an award for most likely to be down to get lunch on little notice,
 Maria would win that award. Maria if you're reading this, want to go to Araya's

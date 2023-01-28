@@ -19,3 +19,11 @@ simulations, lab experiments and field-work) to explore topics including:
 - the joint evolution of dispersal and local adaptation
 
 
+Andrew did his postdoc at the Santa Fe Institute and then wrote some
+papers about collective behavior that all his grad students think are the
+coolest, so here we are working in his lab.
+
+Catch Andrew drawing functional response types and ecology models he just thought of
+on his whiteboard, bringing his three kids out to the river to wade around and look
+at fish, or quickly coding up a python module for the class he's teaching
+in 15 minutes!
