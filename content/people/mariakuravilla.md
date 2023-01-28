@@ -1,6 +1,6 @@
 ---
-name: Maria Kuravilla
-picture: /img/people/mariakuravilla.jpg
+name: Maria Kuruvilla
+picture: /img/people/mariakuruvilla.jpg
 status: QERM PhD Student
 weight: 20
 ---
