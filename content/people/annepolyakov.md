@@ -8,7 +8,7 @@ weight: 16
 
 Anne's research covers a variety of animals and ecosystems, including sockeye salmon in Alaskan streams, brush mice in oak woodlands of central California, and mycorrhizal fungi in old-growth forests. She is passionate about interdisciplinary research at the intersection of ecology and statistics!
 
-Some other about Anne:
+Some other things about Anne:
 
 Anne is extremely competitive. Like, kind of scary competitive. One time we had
 a QERM ultimate frisbee team and she legitimately made like three people
