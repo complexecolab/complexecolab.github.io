@@ -1,5 +1,5 @@
 ---
-title: Complex Ecology Systems Lab
+title: Complex Ecological Systems Lab
 ---
 
 
