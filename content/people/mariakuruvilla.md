@@ -38,5 +38,4 @@ Maria would win that award. Maria if you're reading this, want to go to Araya's
 Place with me and Ben?
 
 
-Here is a link to my [Google scholar](https://scholar.google.com/citations?user=3_d0FkoAAAAJ&hl=en).
-Here is a link to my [Github](https://github.com/maria-kuruvilla).
+Here are links to Maria's [Google scholar](https://scholar.google.com/citations?user=3_d0FkoAAAAJ&hl=en) and [Github](https://github.com/maria-kuruvilla).
