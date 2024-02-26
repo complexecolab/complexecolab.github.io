@@ -18,7 +18,20 @@
         <div class="row">
          
             {{ range .Pages }}
+              {{ if not .Params.Alumn }}
+
               {{ partial "personcard.html" . }}
+              {{ end }}
+            {{ end }}
+        </div>
+
+        <h2>Alumni</h2>
+        <div class="row">
+            {{ range .Pages }}
+              {{ if .Params.Alumn }}
+                {{ partial "personcardsmall.html" . }}
+
+              {{ end }}
             {{ end }}
         </div>
 

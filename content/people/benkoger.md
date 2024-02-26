@@ -4,6 +4,7 @@ name: Ben Koger
 picture: /img/people/benkoger.jpg
 status: Postdoctoral Researcher
 weight: 10
+alumn: true
 ---
 
 Ben works on creating systems that allow for the easy and automated study of
