@@ -23,65 +23,23 @@
 
 
 {{ define "main" }}
-<div data-pagefind-ignore="all" class="container">
-    <div class="row text-center">
-        <div class="col-md-1"></div>
-        <div class="col-md-10 col-xs-12">
-            <!-- USE SIDEBAR -->
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
             <!-- Post Container -->
-
-            <h1>We look for patterns in movement and behavior.</h1>
-            <p>
-            We're an interdisciplinary research lab in the School of Aquatic and Fishery Sciences
-            (SAFS) and Quantitative Ecology and Resource Management (QERM).  We study complex ecological
-            systems such as fisheries, marine mammals, fungi, and collective behavior. Our tools and
-            techniques include computer vision, simulation modeling, statistical modeling, differential
-            equation modeling, and network theory.
-            </p>
-        </div>
-        <div class="col-md-1"></div>
-    </div>
-
-    <div class="row category">
-        <div class="col-md-6">
-            <img src="/img/ai_salmon.png" style="width: 100%;"/>
-        </div>
-        <div class="col-md-1"></div>
-        <div class="col-md-4">
-            <h2>Something about our culture</h2>
-            <p>look at this picture of Ben's AI labeling things. this 
-                paragraph could be something about our lab culture? maybe
-                something aspirational, even.
-            </p>
-        </div>
-        <div class="col-md-1"></div>
-
-    </div>
+            <div class="
+            col-lg-8 col-lg-offset-2
+            col-md-8 col-md-offset-2
+            col-sm-12
+            col-xs-12
+            post-container">
 
 
-    <div class="row category">
-        <div class="col-md-1"></div>
-        <div class="col-md-4">
-            <h2>a DEI statement</h2>
-            <p>check out this animation of fish startling. (I'm not sure who made it)
-                this is probably talking about our DEI ideals, if that's different
-                than our lab culture
-            </p>
-        </div>
-        <div class="col-md-1"></div>
-
-        <div class="col-md-6">
-             <img src="/img/startle_response.gif" style="width: 60%; border-radius: 20%"/>
+                {{ .Content }}
+            
         </div>
     </div>
+</article>
 
-
-
-
-</div>
-<style>
-.category {
-    padding-top: 100px
-}
-</style>
 {{ end }}

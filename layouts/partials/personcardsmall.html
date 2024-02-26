@@ -1,0 +1,13 @@
+<div class="col-sm-4 col-md-3 text-center" style="padding-top: 1em; padding-left: 3em; padding-right: 3em;">
+<div class="thumbnail" style=" height: 25em; border: none">
+	<img src="{{.Params.Picture }}" style="width: 350px; border-radius: 50%;">
+	<a href="/people/{{ .File.BaseFileName }}">
+	<div class="caption">
+		<h4 class="subheading" style="margin: 20px">{{ .Params.Name }}</h4>
+		<h6 class="subheading">{{ .Params.Status }}</h6>
+		<!-- <p>{{ .Summary }}</p> -->
+	</div>
+	</a>
+	<!-- this is a person card -->
+</div>
+</div>

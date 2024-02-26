@@ -4,6 +4,7 @@ name: Connie Okasaki
 picture: /img/people/connieokasaki.jpg
 status: QERM PhD Student
 weight: 20
+alumn: true
 ---
 
 Connie's general research interests include bridging the gaps between
