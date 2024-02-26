@@ -6,17 +6,4 @@ status: QERM PhD Student
 weight: 16
 ---
 
-Anne's research covers a variety of animals and ecosystems, including sockeye salmon in Alaskan streams, brush mice in oak woodlands of central California, and mycorrhizal fungi in old-growth forests. She is passionate about interdisciplinary research at the intersection of ecology and statistics!
-
-Some other things about Anne:
-
-Anne is extremely competitive. Like, kind of scary competitive. One time we had
-a QERM ultimate frisbee team and she legitimately made like three people
-on the other team cry with just her sheer ferocity and intensity.
-
-Anne loves talking about mushrooms, going on runs and hikes where she can
-see mushrooms, and of course cutting mushrooms into tiny little pieces to
-analyze their DNA. One time she had to transport a bunch of frozen (I think)
-samples on a long road trip and it was really stressful
-but she made it OK and so that was a huge success.
-
+Anne Polyakov is a PhD candidate within the Quantitative Ecology and Resource Management Program at the University of Washington, an interdisciplinary program focused on the application of advanced statistical tools to address complex ecological systems. Anne's research involves using statistical analysis and ecological modeling to understand ecological processes, with an emphasis on biodiversity conservation and the role of microbial functions in forest carbon and nitrogen cycling. Anne's current projects include using machine learning to predict forest carbon allocation belowground to fungal symbionts and statistical modeling to map the flow of salmon-derived nutrients through fungal systems. I am especially interested in using state of the art modeling approaches to understand fungal processes and contribute to research on fungal biodiversity and conservation. Some of my other work includes quantifying collective behavior in Pacific salmon, modeling population dynamics of small mammals, and examining biodiversity conservation in the agricultural matrix. My doctoral research centers on quantifying fungal processes such as fungal-plant trading dynamics through mycorrhizal fungal networks, using a combination of field work, genomics, stable isotope biogeochemistry, and modeling.
