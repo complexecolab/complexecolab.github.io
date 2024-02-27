@@ -5,11 +5,13 @@ status: QERM PhD Student
 weight: 20
 ---
 
-Maria works on collective behavior. Specifically, on schooling behavior in
-fish, and how environmental factors affect a school's ability to respond
-to stimuli. It's actually so cool - it seems like there's a relationship between
-how hot or cold the water is and how effective schools of fish are at evading
-predators, and it has to do with how they behave collectively! Ask her about it!
+Maria studies how environmental and social factors affect how fish move. 
+
+In her first project she studied how temperature affects the ability of a school of fish to respond to a predator. She used lab experiments, videos of fish swimming, and computer vision software to track the fish. She found that how temperature affects their swimming speed and acceleration depends on whether they are trying to escape from a predator or not. 
+
+In her next project she studied social behavior of juvenile salmon. She used state space models to study whether juvenile wild salmon are influenced by the large number of hatchery salmon migrating downstream.
+
+In her last project, she studied various environmental factors and the number of hatchery fish that have been released affects the overall migration timing of wild juvenile salmon in four rivers in Washington state. 
 
 Maria has a Master's degree in physics and is arguably the only PhD student at
 this point whose research really fits the themes of the lab so we cherish her
@@ -36,4 +38,4 @@ Maria would win that award. Maria if you're reading this, want to go to Araya's
 Place with me and Ben?
 
 
-
+Here are links to Maria's [Google scholar](https://scholar.google.com/citations?user=3_d0FkoAAAAJ&hl=en) and [Github](https://github.com/maria-kuruvilla).
