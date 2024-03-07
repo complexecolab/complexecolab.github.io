@@ -5,8 +5,8 @@ status: QERM PhD Student
 weight: 100
 ---
 
-Brendan is interested in complex systems, network science, and general scaling
-laws of movement. His background is in applied math and computer science. Before
+Brendan is interested in complex systems, network science, and general patterns
+in movement of people and animals. His background is in applied math and computer science. Before
 UW, he worked on modeling traffic for Google maps. He's currently working on
 introducing risk-structure and movement frequency to an epidemiological model.
 
