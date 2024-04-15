@@ -13,7 +13,7 @@ Below are some answers to questions I often receive from prospective students.
 ### How can I apply to your lab?
 I can accept students through the [School of Aquatic & Fishery Sciences](https://fish.uw.edu/students/graduate-program/prepare-apply/) and the  [Quantitative Ecology & Resource Management](https://quantitative.uw.edu/graduate/how-to-apply/) program. I recommend that you explore both and decide which best fits your background and intended goals. Please note that you can apply to both in parallel.
 
-If you plan to apply, please also reach out to me via email with a research statement, CV and unofficial copies of your transcripts. Feel free to do this well ahead of the (usually November/December) deadline. Please use subject line [CESL grad student enquiry], this will help make sure I don't miss your email.
+If you plan to apply, please also reach out to me via email with a research statement, CV and unofficial copies of your transcripts. Feel free to do this well ahead of the (usually November/December) deadline. Please use subject line **[CESL grad student enquiry]**, this will help make sure I don't miss your email.
 
 
 ### What sort of students do you accept?
