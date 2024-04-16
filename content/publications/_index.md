@@ -4,7 +4,20 @@ title: Publications
 ---
 
 
-**Complex Ecological Systems Lab publications list**
+[Google Scholar profile](https://scholar.google.com/citations?user=YmLUOzQAAAAJ&hl=en)
+
+
+### Preprints
+
+Kao, A. B., Banerjee, S., Francisco, F., & **Berdahl, A. M.** (2023).
+Timing decisions as the next frontier for collective intelligence.
+*arXiv preprint arXiv:2312.02187*.
+
+**Okasaki, C**., Tóth, S. F., & **Berdahl, A. M**. (2023). Optimal
+sampling design under logistical constraints with mixed integer
+programming. *arXiv preprint arXiv:2302.05553*.
+
+### Published
 
 Althouse, B. M., **Wallace, B**., Case, B. K. M., Scarpino, S. V.,
 Allard, A., **Berdahl, A. M**., \... & Hébert-Dufresne, L. (2023). The
@@ -28,18 +41,10 @@ Goodman, N. D., & Krafft, P. M. (2023). Flexible social inference
 facilitates targeted social learning when rewards are not observable.
 *Nature Human Behaviour*, *7*(10), 1767-1776.
 
-Kao, A. B., Banerjee, S., Francisco, F., & **Berdahl, A. M.** (2023).
-Timing decisions as the next frontier for collective intelligence.
-*arXiv preprint arXiv:2312.02187*.
-
 **Kuruvilla, M.**, Dell, A., Olson, A. R., Knouft, J., Grady, J. M.,
 Forbes, J., & **Berdahl, A. M**. (2023). The effect of temperature on
 fish swimming and schooling is context dependent. *Oikos*, *2023*(2),
 e09202.
-
-**Okasaki, C**., Tóth, S. F., & **Berdahl, A. M**. (2023). Optimal
-sampling design under logistical constraints with mixed integer
-programming. *arXiv preprint arXiv:2302.05553*.
 
 Oestreich, W. K., Aiu, K. M., Crowder, L. B., McKenna, M. F.,
 **Berdahl, A. M**., & Abrahms, B. (2022). The influence of social cues
