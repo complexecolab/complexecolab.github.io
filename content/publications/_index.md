@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
-[Google Scholar profile](https://scholar.google.com/citations?user=YmLUOzQAAAAJ&hl=en)
+[Andrew's Google Scholar profile](https://scholar.google.com/citations?user=YmLUOzQAAAAJ&hl=en)
 
 
 ### Preprints
