@@ -21,3 +21,5 @@ eats regular human food sometimes, too. In fact, he's currently working to
 implement a way to cook ramen (not just the box kind,
 like, actual ramen) in the office on a hot plate. We wish him the
 best of luck!
+
+[Ben is now faculty at the University of Wyoming!](http://kogerlab.com/)
