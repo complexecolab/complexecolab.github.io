@@ -26,14 +26,14 @@ restrictions during epidemics](https://doi.org/10.1186/s44263-023-00028-z). *BMC
 28.
 
 **Brewer, A. M**., Castellote, M., Van Cise, A. M., Gage, T., &
-**Berdahl, A. M**. (2023). Communication in Cook Inlet beluga whales:
+**Berdahl, A. M**. (2023). [Communication in Cook Inlet beluga whales:
 Describing the vocal repertoire and masking of calls by commercial ship
-noise. *The Journal of the Acoustical Society of America*, *154*(5),
+noise](https://doi.org/10.1121/10.0022516). *The Journal of the Acoustical Society of America*, *154*(5),
 3487-3505.
 
 Galesic, M., Barkoczi, D., **Berdahl, A. M**., Biro, D., Carbone, G.,
-Giannoccaro, I., \... & Stein, D. L. (2023). Beyond collective
-intelligence: Collective adaptation. *Journal of the Royal Society
+Giannoccaro, I., \... & Stein, D. L. (2023). [Beyond collective
+intelligence: Collective adaptation](https://doi.org/10.1098/rsif.2022.0736). *Journal of the Royal Society
 Interface*, *20*(200), 20220736.
 
 Hawkins, R. D., **Berdahl, A. M.**, Pentland, A. S., Tenenbaum, J. B.,
