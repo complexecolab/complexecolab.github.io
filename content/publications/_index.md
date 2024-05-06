@@ -10,19 +10,19 @@ title: Publications
 ### Preprints
 
 Kao, A. B., Banerjee, S., Francisco, F., & **Berdahl, A. M.** (2023).
-Timing decisions as the next frontier for collective intelligence.
+[Timing decisions as the next frontier for collective intelligence](https://arxiv.org/pdf/2312.02187).
 *arXiv preprint arXiv:2312.02187*.
 
-**Okasaki, C**., Tóth, S. F., & **Berdahl, A. M**. (2023). Optimal
+**Okasaki, C**., Tóth, S. F., & **Berdahl, A. M**. (2023). [Optimal
 sampling design under logistical constraints with mixed integer
-programming. *arXiv preprint arXiv:2302.05553*.
+programming](https://arxiv.org/pdf/2302.05553). *arXiv preprint arXiv:2302.05553*.
 
 ### Published
 
 Althouse, B. M., **Wallace, B**., Case, B. K. M., Scarpino, S. V.,
-Allard, A., **Berdahl, A. M**., \... & Hébert-Dufresne, L. (2023). The
+Allard, A., **Berdahl, A. M**., \... & Hébert-Dufresne, L. (2023). [The
 unintended consequences of inconsistent closure policies and mobility
-restrictions during epidemics. *BMC Global and Public Health*, *1*(1),
+restrictions during epidemics](https://doi.org/10.1186/s44263-023-00028-z). *BMC Global and Public Health*, *1*(1),
 28.
 
 **Brewer, A. M**., Castellote, M., Van Cise, A. M., Gage, T., &
