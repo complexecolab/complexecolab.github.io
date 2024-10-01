@@ -40,3 +40,5 @@ Place with me and Ben?
 
 
 Here are links to Maria's [Google scholar](https://scholar.google.com/citations?user=3_d0FkoAAAAJ&hl=en) and [Github](https://github.com/maria-kuruvilla).
+
+Maria is now a postdoc with [Mark Lewis](https://lewisresearchlab.org/) at the University of Victoria.
