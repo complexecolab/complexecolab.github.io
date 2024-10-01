@@ -2,7 +2,8 @@
 name: Maria Kuruvilla
 picture: /img/people/mariakuruvilla.jpg
 status: QERM PhD Student
-weight: 20
+weight: 10
+alumn: true
 ---
 
 Maria studies how environmental and social factors affect how fish move. 
