@@ -3,8 +3,7 @@ title: Complex Ecological Systems Lab
 ---
 
 
-# We look for patterns in movement and behavior and use simple models to understand the processes underlying these patterns.
-
+# Purveyor of simple models since 2018.
 
 We're an interdisciplinary research lab in the School of Aquatic and Fishery
 Sciences (SAFS) and Quantitative Ecology and Resource Management (QERM). We
