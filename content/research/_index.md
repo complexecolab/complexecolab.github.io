@@ -3,4 +3,4 @@ layout: page
 title: Research
 ---
 
-List of our main research areas and themes
+We look for patterns in movement and behavior and use simple models to understand the processes underlying these patterns.
