@@ -9,15 +9,15 @@ title: Publications
 
 ### Preprints
 
-Kao, A. B., Banerjee, S., Francisco, F., & **Berdahl, A. M.** (2023).
-[Timing decisions as the next frontier for collective intelligence](https://arxiv.org/pdf/2312.02187).
-*arXiv preprint arXiv:2312.02187*.
-
 **Okasaki, C**., Tóth, S. F., & **Berdahl, A. M**. (2023). [Optimal
 sampling design under logistical constraints with mixed integer
 programming](https://arxiv.org/pdf/2302.05553). *arXiv preprint arXiv:2302.05553*.
 
 ### Published
+
+Kao, A. B., Banerjee, S., Francisco, F., & **Berdahl, A. M.** (2024).
+[Timing decisions as the next frontier for collective intelligence](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00141-1).
+*Trends in Ecology & Evolution*, *39*(10) 904-912.
 
 Althouse, B. M., **Wallace, B**., Case, B. K. M., Scarpino, S. V.,
 Allard, A., **Berdahl, A. M**., \... & Hébert-Dufresne, L. (2023). [The
