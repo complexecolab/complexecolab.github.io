@@ -11,8 +11,8 @@ params:
 menu:
 
   main:
-    - name: 'Prospective Students'
-      url: '/prospectivestudents'
+    - name: 'Join Us'
+      url: '/joinus'
       weight: 50
     - name: 'People'
       url: '/people'
