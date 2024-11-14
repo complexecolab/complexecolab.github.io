@@ -9,6 +9,9 @@ title: Publications
 
 ### Preprints
 
+**Kuruvilla, M.**, Quinn, T. P., Anderson, J. H., Miller, E. M., Berger, A. G., Okasaki, C., ... & **Berdahl, A. M.** (2024).
+[Social influences complement environmental cues to stimulate migrating juvenile salmon.](https://www.biorxiv.org/content/10.1101/2024.06.14.598894v2.abstract) bioRxiv, 2024-06.
+
 **Okasaki, C**., Tóth, S. F., & **Berdahl, A. M**. (2023). [Optimal
 sampling design under logistical constraints with mixed integer
 programming](https://arxiv.org/pdf/2302.05553). *arXiv preprint arXiv:2302.05553*.
