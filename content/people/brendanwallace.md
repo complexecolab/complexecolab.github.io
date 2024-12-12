@@ -1,7 +1,7 @@
 ---
 name: Brendan Wallace
 picture: /img/people/brendanwallace.jpg
-status: QERM PhD Student
+status: QERM PhD Candidate
 weight: 100
 ---
 
