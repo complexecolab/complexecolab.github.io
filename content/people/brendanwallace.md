@@ -1,7 +1,7 @@
 ---
 name: Brendan Wallace
 picture: /img/people/brendanwallace.jpg
-status: QERM PhD Candidate
+status: SAFS/QERM PhD Candidate
 weight: 100
 ---
 
@@ -18,5 +18,5 @@ to be some kind of record.
 
 Brendan frequently says he wishes he went to more SAFS and QERM
 things but then he's always too busy coaching ultimate frisbee, so maybe next
-week! But actually you guys this is the quarter he's gonna start going to TGIT he
-swears.
+week! But actually you guys this is the quarter he's gonna start going to TGIT
+he swears.
