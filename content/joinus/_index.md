@@ -40,7 +40,7 @@ The best thing you can do to increase your chances of getting into the graduate 
 
 
 #### Do you currently have funding to take a new student?
-Not at this time. I will update this when I do.
+Not as of Fall 2025. I will update this when I do.
 
 #### Can we meet?
 I am sure I would enjoy meeting with you, but unfortunately my time is limited and I need to conserve my bandwidth to support my current students (and write grants to be able to support you in the future!). Generally, I am not able to meet prospective students prior to you applying.
