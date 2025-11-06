@@ -18,7 +18,7 @@ programming](https://arxiv.org/pdf/2302.05553). *arXiv preprint arXiv:2302.05553
 
 ### Published
 
-**Wallace, B.,** Dimitrov, D. Hébert-Dufresne, L., & Berdahl, A.M. (2025). [Hotspot model shows how location-based superspreading accelerates and reshapes epidemics](https://doi.org/10.1093/pnasnexus/pgaf299), PNAS Nexus, Volume 4, Issue 9, September 2025, pgaf299, 
+**Wallace, B.,** Dimitrov, D. Hébert-Dufresne, L., & **Berdahl, A.M.** (2025). [Hotspot model shows how location-based superspreading accelerates and reshapes epidemics](https://doi.org/10.1093/pnasnexus/pgaf299), PNAS Nexus, Volume 4, Issue 9, September 2025, pgaf299, 
 
 Kao, A. B., Banerjee, S., Francisco, F., & **Berdahl, A. M.** (2024).
 [Timing decisions as the next frontier for collective intelligence](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00141-1).
