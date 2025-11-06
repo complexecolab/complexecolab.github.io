@@ -4,6 +4,7 @@ name: Will Oestreich
 picture: /img/people/will.png
 status: Postdoctoral Researcher
 weight: 110
+alumn: true
 ---
 
 

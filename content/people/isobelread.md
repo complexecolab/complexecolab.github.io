@@ -4,6 +4,7 @@ name: Isobel Read
 picture: /img/people/isobel.png
 status: Undergraduate Research Assistant
 weight: 120
+alumn: true
 ---
 
 
